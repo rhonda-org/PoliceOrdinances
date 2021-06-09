@@ -4,5 +4,5 @@ Although this GitHub Page is rather empty, we invite you to visit us frequently 
 
 You can reach us at:
 
-Wagner@rg.mpg.de (Andreas)
+wagner@lhlt.mpg.de (Andreas)
 Annemieke.Romein@Huygens.knaw.nl (Annemieke)
