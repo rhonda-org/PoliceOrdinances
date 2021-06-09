@@ -6,3 +6,5 @@ You can reach us at:
 
 wagner@lhlt.mpg.de (Andreas)
 Annemieke.Romein@Huygens.knaw.nl (Annemieke)
+
+Currently, we're collection user stories and invite you to share information about the data you want to accomodate or about the questions you want a database to answer at via this form: <https://forms.gle/jkVemCbuzhLFHp1o7>
